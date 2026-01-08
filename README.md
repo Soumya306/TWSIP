@@ -1,3 +1,3 @@
 # TWSIP
 a GITHUB repository for Topperworld Internship/n
-Author:- Soumya Ranjan Baliarsingh
+Author Name:- Soumya Ranjan Baliarsingh
